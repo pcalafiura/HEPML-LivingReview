@@ -135,7 +135,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
 * [Probing stop pair production at the LHC with graph neural networks](https://arxiv.org/abs/1807.09088) [[DOI](https://doi.org/10.1007/JHEP08(2019)055)]
 * [Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988) [[DOI](https://doi.org/10.1140/epjp/i2019-12710-3)]
-* [Unveiling CP property of top-Higgs coupling with graph neural networks at the LHC](https://arxiv.org/abs/1901.05627) [[DOI](https://doi.org/10.1016/j.physletb.2020.135198)]
+* [Unveiling CP property of top-Higgs coupling with graph neural networks at the LHC](https://arxiv.org/abs/1901.05627) [[DOI]()]
 * [JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
 * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
 * [Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
@@ -144,7 +144,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
 * [Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639) [[DOI](https://doi.org/10.21468/SciPostPhys.10.2.046)]
 * [Graph neural networks in particle physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/{10.1088/2632-2153/abbf9a)]
-* [Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
+* [Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI]()]
 * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064) [[DOI](https://doi.org/10.1103/PhysRevD.102.075014)]
 * [Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
 * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688) [[DOI](https://doi.org/10.1103/PhysRevD.103.032005)]
@@ -215,7 +215,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ####  $W/Z$ tagging
 
 * [Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
-* [Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607) [[DOI](https://doi.org/10.1103/PhysRevD.95.014018)]
+* [Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607) [[DOI](https://doi.org/10.1103/PhysRevD.95.014018https://doi.org/10.1103/PhysRevD.95.014018)]
 * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) [[DOI](https://doi.org/10.1007/JHEP01(2019)057)]
 * [Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
 * [Boosted $W$ and $Z$ tagging with jet charge and deep learning](https://arxiv.org/abs/1908.08256) [[DOI](https://doi.org/10.1103/PhysRevD.101.053001)]
@@ -478,7 +478,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Tracking
 
-* [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf})
+* [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf)
 * [Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111)
 * [The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778) [[DOI](https://doi.org/10.1007/978-3-030-29135-8\_9)]
 * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
@@ -502,9 +502,9 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field](https://arxiv.org/abs/2211.04890)
 * [Deep learning for track recognition in pixel and strip-based particle detectors](https://arxiv.org/abs/2210.00599)
 * [Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment](https://arxiv.org/abs/2208.12178)
-* [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
+* [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI]()]
 * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
-* [Reconstruction of fast neutron direction in segmented organic detectors using deep learning](https://arxiv.org/abs/2301.10796) [[DOI](https://doi.org/10.1016/j.nima.2023.168024)]
+* [Reconstruction of fast neutron direction in segmented organic detectors using deep learning](https://arxiv.org/abs/2301.10796) [[DOI]()]
 * [Deep Learning-Based Spatiotemporal Multi-Event Reconstruction for Delay Line Detectors](https://arxiv.org/abs/2306.09359)
 
 ####  Heavy Ions / Nuclear Physics
@@ -978,7 +978,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks](https://arxiv.org/abs/1802.03325) [[DOI](https://doi.org/10.1007/s41781-018-0008-x)]
 * [Generative models for fast cluster simulations in the TPC for the ALICE experiment](https://doi.org/10.1051/epjconf/201921406003)
 * [RICH 2018](https://arxiv.org/abs/1903.11788) [[DOI](https://doi.org/10.1016/j.nima.2019.01.031)]
-* [GANs for generating EFT models](https://arxiv.org/abs/1809.02612) [[DOI](https://doi.org/10.1016/j.physletb.2020.135798)]
+* [GANs for generating EFT models](https://arxiv.org/abs/1809.02612) [[DOI](https://doi.org/10.1016/j.physletb.2020.135798https://doi.org/10.1016/j.physletb.2020.135798)]
 * [Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network](https://arxiv.org/abs/1807.01954) [[DOI](https://doi.org/10.1007/s41781-018-0019-7)]
 * [Reducing Autocorrelation Times in Lattice Simulations with Generative Adversarial Networks](https://arxiv.org/abs/1811.03533) [[DOI](https://doi.org/10.1088/2632-2153/abae73)]
 * [Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf})
